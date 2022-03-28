@@ -1,0 +1,10 @@
+C:\Users\Kadır\Desktop\Calisan Maas Hesapla\calisanMaasHesapla\calisanMaasHesapla\bin\Debug\calisanMaasHesapla.exe.config
+C:\Users\Kadır\Desktop\Calisan Maas Hesapla\calisanMaasHesapla\calisanMaasHesapla\bin\Debug\calisanMaasHesapla.exe
+C:\Users\Kadır\Desktop\Calisan Maas Hesapla\calisanMaasHesapla\calisanMaasHesapla\bin\Debug\calisanMaasHesapla.pdb
+C:\Users\Kadır\Desktop\Calisan Maas Hesapla\calisanMaasHesapla\calisanMaasHesapla\obj\Debug\calisanMaasHesapla.csproj.AssemblyReference.cache
+C:\Users\Kadır\Desktop\Calisan Maas Hesapla\calisanMaasHesapla\calisanMaasHesapla\obj\Debug\calisanMaasHesapla.frmPanel.resources
+C:\Users\Kadır\Desktop\Calisan Maas Hesapla\calisanMaasHesapla\calisanMaasHesapla\obj\Debug\calisanMaasHesapla.Properties.Resources.resources
+C:\Users\Kadır\Desktop\Calisan Maas Hesapla\calisanMaasHesapla\calisanMaasHesapla\obj\Debug\calisanMaasHesapla.csproj.GenerateResource.cache
+C:\Users\Kadır\Desktop\Calisan Maas Hesapla\calisanMaasHesapla\calisanMaasHesapla\obj\Debug\calisanMaasHesapla.csproj.CoreCompileInputs.cache
+C:\Users\Kadır\Desktop\Calisan Maas Hesapla\calisanMaasHesapla\calisanMaasHesapla\obj\Debug\calisanMaasHesapla.exe
+C:\Users\Kadır\Desktop\Calisan Maas Hesapla\calisanMaasHesapla\calisanMaasHesapla\obj\Debug\calisanMaasHesapla.pdb
